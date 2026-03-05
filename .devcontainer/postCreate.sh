@@ -1,0 +1,1 @@
+"postCreateCommand": ".devcontainer/postCreate.sh"
